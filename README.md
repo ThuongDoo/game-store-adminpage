@@ -1,4 +1,5 @@
 # Sanity Blogging Content Studio
+Trang web admin: https://game-store.sanity.studio/desk/game
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
